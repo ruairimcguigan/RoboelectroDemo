@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoboletricDemo</string>
+    <string name="hello_world">Hello world</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="edit_text_hint">Please enter somthing</string>
+    <string name="Enter">Enter</string>
+    <string name="hint">Hint</string>
+    <string name="hint_text">Enter a message and hit button</string>
+</resources>
